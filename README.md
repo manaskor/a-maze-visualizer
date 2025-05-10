@@ -1,4 +1,4 @@
-# (A)MAZE Visualizer
+# (A)MAZE Interactive Visualizer
 A maze visualizer built for the Accelerated Introduction to Computer Science course I took during my first semester at Brown. The interactive visualizer was made in [Pyret](https://pyret.org/index.html), which is a [functional](https://en.wikipedia.org/wiki/Functional_programming) programming language used in education. Pyret is probably most similar to Racket. For this project we were allowed to make anything, so I wanted to make an interactive visualizer that could hopefully serve as an educational tool to understand graph traversals.
 
 ## Setup
