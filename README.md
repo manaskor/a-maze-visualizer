@@ -1,5 +1,5 @@
 # (A)MAZE Visualizer
-A maze visualizer built for Brown University's CSCI 0190: Accelerated Introduction to Computer Science. The visualizer was made in [Pyret](https://pyret.org/index.html), which is a [functional](https://en.wikipedia.org/wiki/Functional_programming) programming language used in education. Pyret is probably most similar to Racket. We were allowed to come up with any project, so I wanted to make a visualizer that could hopefully serve as an educational tool to understand graph traversals.
+A maze visualizer built for Brown University's CSCI 0190: Accelerated Introduction to Computer Science (taken Fall 2023). The visualizer was made in [Pyret](https://pyret.org/index.html), which is a [functional](https://en.wikipedia.org/wiki/Functional_programming) programming language used in education. Pyret is probably most similar to Racket. We were allowed to come up with any project, so I wanted to make a visualizer that could hopefully serve as an educational tool to understand graph traversals.
 
 ## Setup
 Copy the code into the [Pyret Editor](https://code.pyret.org/editor) and click run.
