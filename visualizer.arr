@@ -1,4 +1,3 @@
-use context essentials2021
 #|
    ====================================================================================
    Welcome to the (A)MAZE VISUALIZER!
