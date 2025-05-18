@@ -4,16 +4,6 @@ A maze visualizer built for the Accelerated Introduction to Computer Science cou
 ## Setup
 Copy the code into the [Pyret Editor](https://code.pyret.org/editor) and click run.
 
-## Algorithms
-
-The interactive visualizer includes both depth-first and breadth-first traversals. Some algorithms that it uses include:
-- Depth-First-Search
-- Breadth-First-Search
-- Disjoint-Set Union
-- Union Find
-- Kruskal's Random Minimum Spanning Tree for Perfect Maze Generation
-- Random Walk for Maze Generation
-
 ## Features
 - Visualize two types of traversals
 - Perfect (fully connected) maze generation with minimum removals
@@ -23,6 +13,16 @@ The interactive visualizer includes both depth-first and breadth-first traversal
 - Undo any number of edits
 - Change maze size
 - Change animation speed
+
+## Algorithms
+
+The interactive visualizer includes both depth-first and breadth-first traversals. Some algorithms that it uses include:
+- Depth-First-Search
+- Breadth-First-Search
+- Disjoint-Set Union
+- Union Find
+- Kruskal's Random Minimum Spanning Tree for Perfect Maze Generation
+- Random Walk for Maze Generation
 
 ## Controls
 See the comment at the top of the .arr file.
